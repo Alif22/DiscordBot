@@ -1,3 +1,5 @@
+memeBog
+
 This bot is used to play the designated sound in the sounds folder. Add your bot key in the .env file accordingly
 
 prequisite:
